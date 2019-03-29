@@ -1,9 +1,5 @@
 # Projet-Infra
-<<<<<<< HEAD
-# Projet-picpic
-# Projet-picpic
-# Projet-picpic
-=======
+
 GROUPE : 6
 
 
